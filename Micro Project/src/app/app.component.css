@@ -1,0 +1,20 @@
+label{
+    font-weight: bold;
+    color: black;
+}
+h1{
+    padding-top: 20px;
+    text-align: center;
+}
+.container
+{
+    width: 50vw;
+    box-shadow: 2px 2px 5px #333,inset 1px 1px 2px #333;
+    border-radius: 20px;
+    padding: 20px;
+}
+body{
+    background-image: url(https://www.shutterstock.com/image-vector/food-delivery-app-on-smartphone-260nw-1409325191.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

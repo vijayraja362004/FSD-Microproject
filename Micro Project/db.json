@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": "101",
+      "employeeName": "vijay ",
+      "employeeSalary": "76000",
+      "employeelogin": "11.23 am",
+      "employeelogout": "7.45 pm"
+    },
+    {
+      "id": "103",
+      "employeeName": "kiran",
+      "employeeSalary": "50000",
+      "employeelogin": "11.45 am",
+      "employeelogout": "9.12 pm"
+    },
+    {
+      "id": "104",
+      "employeeName": "siva",
+      "employeeSalary": "50400",
+      "employeelogin": "11.45 am",
+      "employeelogout": "10.12 pm"
+    },
+    {
+      "id": "105",
+      "employeeName": "yasod",
+      "employeeSalary": "10400",
+      "employeelogin": "10.45 am",
+      "employeelogout": "03.12 pm"
+    },
+    {
+      "id": "106",
+      "employeeName": "dhilip",
+      "employeeSalary": "11400",
+      "employeelogin": "11.45 am",
+      "employeelogout": "09.12 pm"
+    }
+  ]
+}
